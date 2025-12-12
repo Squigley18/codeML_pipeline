@@ -11,6 +11,7 @@ Following steps outlined in the steps outlined in https://academic.oup.com/mbe/a
 | `selection.pipeline.wrapper.sh` | Wrapper script for entire codeML pipeline
 | `species.tree` | Species tree used in my analysis - newick format
 | `Selection` | Files and scripts for selection.pipeline.wrapper.sh
+| `codeml.environment.yml` | Conda environment yml file
 
 
 # Files and scripts in selection folder 
