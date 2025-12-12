@@ -1,0 +1,1 @@
+((opossum,(((cow,sheep,pig),((rat,mouse),((gibbon,(human,chimp)),baboon)))),chicken));
