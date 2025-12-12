@@ -1,6 +1,8 @@
 # codeML_pipeline
 CodeML pipeline used in PhD thesis: Genome architecture and  rearrangement: Interplay of  genomic, transcriptomic, and  epigenetic features in  mammals. 
 
+Following steps outlined in the steps outlined in https://academic.oup.com/mbe/article/40/4/msad041/7140562 
+
 # Folders in the repository 
 
 | FILE / FOLDER | PURPOSE |
